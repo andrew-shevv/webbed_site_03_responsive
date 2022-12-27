@@ -392,6 +392,10 @@ a {
     padding-right: 10px;
   }
 
+  .nav {
+    gap: 6px;
+  }
+
   .nav-link {
     padding: 22px 5px;
     font-size: 14px;
